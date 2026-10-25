@@ -1,13 +1,13 @@
 {
-  "versionCode": 16,
-  "versionName": "1.4.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.4.2.apk",
-  "size": 10708591,
-  "sha256": "429f9c6bd9f4c014949dbab8fcdc07b07fb6e281d4dfbaa5930f2f44f147ea2e",
+  "versionCode": 17,
+  "versionName": "1.5.0",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.0.apk",
+  "size": 10776900,
+  "sha256": "0be293835b3dcf87b362c4fb3e48b1eb42335ad2472a1b1e13f270471d01bf02",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "签名固定为项目专用 keystore（之后可无缝覆盖升级）",
-    "本次需卸载旧版重装一次"
+    "新增：短剧（野果数据源）Tab",
+    "支持分类筛选 / 搜索 / 选集播放"
   ]
 }
