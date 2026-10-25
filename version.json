@@ -1,13 +1,13 @@
 {
-  "versionCode": 14,
-  "versionName": "1.4.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.4.0.apk",
-  "size": 10711327,
-  "sha256": "b22f205472c0fd25c43724c1692eb1793c96e15fc4f5dcff3aaa4cc1c45f7fa0",
+  "versionCode": 15,
+  "versionName": "1.4.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.4.1.apk",
+  "size": 10708587,
+  "sha256": "fbf56f8fa0c8d510f1f0bb5b0ec52b433b948735c9a316d28d54d554fa3b0042",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "首个版本：自动更新上线",
-    "新增收藏、长按快进、全屏"
+    "修复若干问题",
+    "优化女优页加载速度"
   ]
 }
