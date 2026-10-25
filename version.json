@@ -1,13 +1,13 @@
 {
-  "versionCode": 17,
-  "versionName": "1.5.0",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.0.apk",
-  "size": 10776900,
-  "sha256": "0be293835b3dcf87b362c4fb3e48b1eb42335ad2472a1b1e13f270471d01bf02",
+  "versionCode": 18,
+  "versionName": "1.5.1",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.1.apk",
+  "size": 10777332,
+  "sha256": "fddb3d2f11cad1c0014064740817ade0e109e998f8caa1f4df469997d653f093",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "新增：短剧（野果数据源）Tab",
-    "支持分类筛选 / 搜索 / 选集播放"
+    "新增：短剧（野果数据源），分类筛选 / 搜索 / 选集播放",
+    "更新检查改为源站优先，不再依赖 CDN 缓存"
   ]
 }
