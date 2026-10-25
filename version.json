@@ -1,13 +1,13 @@
 {
-  "versionCode": 15,
-  "versionName": "1.4.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.4.1.apk",
-  "size": 10708587,
-  "sha256": "fbf56f8fa0c8d510f1f0bb5b0ec52b433b948735c9a316d28d54d554fa3b0042",
+  "versionCode": 16,
+  "versionName": "1.4.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.4.2.apk",
+  "size": 10708591,
+  "sha256": "429f9c6bd9f4c014949dbab8fcdc07b07fb6e281d4dfbaa5930f2f44f147ea2e",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "修复若干问题",
-    "优化女优页加载速度"
+    "签名固定为项目专用 keystore（之后可无缝覆盖升级）",
+    "本次需卸载旧版重装一次"
   ]
 }
