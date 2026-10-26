@@ -1,13 +1,13 @@
 {
-  "versionCode": 19,
-  "versionName": "1.5.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.2.apk",
-  "size": 10777576,
-  "sha256": "70baba96aefd1cb5f463e3e6377fa029f2f3bd004f6abce1bac490ee526513d2",
+  "versionCode": 20,
+  "versionName": "1.5.3",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.3.apk",
+  "size": 10777248,
+  "sha256": "c82cac24024f2e12583ed5a4ed26e8077e6d83f5364f5f9bfb4edd6ad2262fc9",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "短剧接口出错时会显示具体原因（HTTP 状态 / 响应前 80 字）",
-    "修复部分网络环境下短剧加载失败"
+    "修复：短剧接口把成功响应当成错误（该接口 status=1 才是成功）",
+    "修好后短剧列表/详情/播放均可正常使用"
   ]
 }
