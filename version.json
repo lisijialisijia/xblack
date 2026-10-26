@@ -1,9 +1,9 @@
 {
-  "versionCode": 29,
-  "versionName": "1.6.2",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.2.apk",
-  "size": 10863977,
-  "sha256": "3a325c1a496df7e23f79695df129e5187ecaf30f079777d7dec193888e1ac876",
+  "versionCode": 30,
+  "versionName": "1.6.3",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.3.apk",
+  "size": 10863973,
+  "sha256": "fbe9bf4e388bea2a88cd160be4124345a10c8d98ccaa562faeba0b73303f7a91",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
