@@ -1,13 +1,13 @@
 {
-  "versionCode": 23,
-  "versionName": "1.5.6",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.6.apk",
-  "size": 10786644,
-  "sha256": "850c10f4c83025c962dbc8bed6d5c6c1ce05976052ed5ac5130f0a19b41000e6",
+  "versionCode": 24,
+  "versionName": "1.5.7",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.7.apk",
+  "size": 10786784,
+  "sha256": "5e43bf14ab7acb6e2dcceefe5ebf616b2164d9e2d779edba4dbe616805b180f5",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "修复：自动更新只在本次启动检查一次（原来 24 小时才查一次，连发版看不到更新）",
-    "新增：点底部版本号可手动检查更新"
+    "打开 App（含从后台切回）就会检查更新，5 分钟冷却",
+    "点底部版本号也能手动检查"
   ]
 }
