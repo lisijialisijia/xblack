@@ -1,13 +1,13 @@
 {
-  "versionCode": 20,
-  "versionName": "1.5.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.3.apk",
-  "size": 10777248,
-  "sha256": "c82cac24024f2e12583ed5a4ed26e8077e6d83f5364f5f9bfb4edd6ad2262fc9",
+  "versionCode": 21,
+  "versionName": "1.5.4",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.4.apk",
+  "size": 10780772,
+  "sha256": "9031c1d6808feb8ddc029a2f4061536ae2ca43c01521bb8fcb180851b8f02672",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "修复：短剧接口把成功响应当成错误（该接口 status=1 才是成功）",
-    "修好后短剧列表/详情/播放均可正常使用"
+    "修复：短剧封面不显示（图床图片是 AES 加密的，已加解密）",
+    "短剧列表 / 详情封面恢复正常"
   ]
 }
