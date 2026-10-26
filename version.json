@@ -1,14 +1,14 @@
 {
-  "versionCode": 30,
-  "versionName": "1.6.3",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.3.apk",
-  "size": 10863973,
-  "sha256": "fbe9bf4e388bea2a88cd160be4124345a10c8d98ccaa562faeba0b73303f7a91",
+  "versionCode": 31,
+  "versionName": "1.6.4",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.4.apk",
+  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.4.apk",
+  "size": 10867733,
+  "sha256": "a218366e241f53773195196f5cfd77568108251113557919d2d71fe370ddea2b",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "识图：修复缩略图不显示",
-    "识图：修复预览图显示异常",
-    "识图：页面底部精简"
+    "修复：应用内更新下载失败（改为多源下载 + 断点续传 + 自动重试）",
+    "修复：识图缩略图与预览图显示"
   ]
 }
