@@ -1,12 +1,13 @@
 {
-  "versionCode": 22,
-  "versionName": "1.5.5",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.5.apk",
-  "size": 10782960,
-  "sha256": "33c946649eeeacd746e5c382dba57ce3bf280db1f323a679510665107322bb1a",
+  "versionCode": 23,
+  "versionName": "1.5.6",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.6.apk",
+  "size": 10786644,
+  "sha256": "850c10f4c83025c962dbc8bed6d5c6c1ce05976052ed5ac5130f0a19b41000e6",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "修复短剧封面：改为下载后解密成位图直接显示（不再依赖 Coil）"
+    "修复：自动更新只在本次启动检查一次（原来 24 小时才查一次，连发版看不到更新）",
+    "新增：点底部版本号可手动检查更新"
   ]
 }
