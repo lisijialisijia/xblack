@@ -1,14 +1,14 @@
 {
-  "versionCode": 28,
-  "versionName": "1.6.1",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.1.apk",
-  "size": 10863973,
-  "sha256": "90a0ea175c070784bb60e4637dfddb17c83b067ae11d6d3f06456ecb33ff6476",
+  "versionCode": 29,
+  "versionName": "1.6.2",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.2.apk",
+  "size": 10863977,
+  "sha256": "3a325c1a496df7e23f79695df129e5187ecaf30f079777d7dec193888e1ac876",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "识图：修复缩略图不显示（改用独立加载器，失败自动回落到 Coil）",
-    "识图：修复预览图被染成纯色方块",
-    "识图：去掉底部 avscan.cc 提示文字"
+    "识图：修复缩略图不显示",
+    "识图：修复预览图显示异常",
+    "识图：页面底部精简"
   ]
 }
