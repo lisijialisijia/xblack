@@ -1,13 +1,12 @@
 {
-  "versionCode": 21,
-  "versionName": "1.5.4",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.4.apk",
-  "size": 10780772,
-  "sha256": "9031c1d6808feb8ddc029a2f4061536ae2ca43c01521bb8fcb180851b8f02672",
+  "versionCode": 22,
+  "versionName": "1.5.5",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.5.5.apk",
+  "size": 10782960,
+  "sha256": "33c946649eeeacd746e5c382dba57ce3bf280db1f323a679510665107322bb1a",
   "minSupportedVersionCode": 0,
   "force": false,
   "changelog": [
-    "修复：短剧封面不显示（图床图片是 AES 加密的，已加解密）",
-    "短剧列表 / 详情封面恢复正常"
+    "修复短剧封面：改为下载后解密成位图直接显示（不再依赖 Coil）"
   ]
 }
