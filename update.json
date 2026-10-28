@@ -1,13 +1,13 @@
 {
-  "versionCode": 32,
-  "versionName": "1.6.5",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.5.apk",
-  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.5.apk",
-  "size": 10867741,
-  "sha256": "d9b63657bb7c6fbe99aad9dfb681e87ac181c081f9072f818f6c2abc1f8ab2c5",
-  "minSupportedVersionCode": 0,
-  "force": false,
-  "changelog": [
-    "修复：观看视频时不再自动熄屏（主播放页 + 短剧播放页）"
-  ]
+    "versionCode":  33,
+    "versionName":  "1.6.6",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.6.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.6.apk",
+    "size":  10909376,
+    "sha256":  "aecbc3f752580e33d8559fe478db1ea6e3e234f110effa007ab30c01896acab8",
+    "minSupportedVersionCode":  0,
+    "force":  false,
+    "changelog":  [
+                      "feat: add DLNA cast to player"
+                  ]
 }
