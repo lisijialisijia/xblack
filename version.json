@@ -1,13 +1,14 @@
 {
-  "versionCode": 33,
-  "versionName": "1.6.6",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.6.apk",
-  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.6.apk",
-  "size": 10909376,
-  "sha256": "aecbc3f752580e33d8559fe478db1ea6e3e234f110effa007ab30c01896acab8",
-  "minSupportedVersionCode": 33,
+  "versionCode": 34,
+  "versionName": "1.6.7",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.7.apk",
+  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.7.apk",
+  "size": 10909716,
+  "sha256": "0ad970eec0f0663bb05ec3d79cade26420e6c917c44419ba648b81645fea96de",
+  "minSupportedVersionCode": 34,
   "force": true,
   "changelog": [
-    "播放页新增投屏：同一 WiFi 下搜索电视/盒子，一键推到大屏；投屏时手机自动暂停，再点一次停止"
+    "播放页新增投屏：同一 WiFi 下搜索电视/盒子，一键推到大屏；投屏时手机自动暂停，再点一次停止",
+    "修复：强制更新在下载失败后可被绕过的问题"
   ]
 }
