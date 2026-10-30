@@ -5,8 +5,8 @@
   "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.6.apk",
   "size": 10909376,
   "sha256": "aecbc3f752580e33d8559fe478db1ea6e3e234f110effa007ab30c01896acab8",
-  "minSupportedVersionCode": 0,
-  "force": false,
+  "minSupportedVersionCode": 33,
+  "force": true,
   "changelog": [
     "播放页新增投屏：同一 WiFi 下搜索电视/盒子，一键推到大屏；投屏时手机自动暂停，再点一次停止"
   ]
