@@ -1,14 +1,13 @@
 {
-  "versionCode": 34,
-  "versionName": "1.6.7",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.7.apk",
-  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.7.apk",
-  "size": 10909716,
-  "sha256": "0ad970eec0f0663bb05ec3d79cade26420e6c917c44419ba648b81645fea96de",
-  "minSupportedVersionCode": 34,
+  "versionCode": 35,
+  "versionName": "1.6.8",
+  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.8.apk",
+  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.8.apk",
+  "size": 10910424,
+  "sha256": "90e3d0d5a309a2ec7ce86564a387265c66ba183ac1b725902f5494854b7bf075",
+  "minSupportedVersionCode": 35,
   "force": true,
   "changelog": [
-    "播放页新增投屏：同一 WiFi 下搜索电视/盒子，一键推到大屏；投屏时手机自动暂停，再点一次停止",
-    "修复：强制更新在下载失败后可被绕过的问题"
+    "修复：投屏到电视时黑屏或一直转圈（m3u8 嵌套子列表没有重写，电视拿到的是错误的分片地址）"
   ]
 }
