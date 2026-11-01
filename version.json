@@ -1,13 +1,13 @@
 {
-  "versionCode": 35,
-  "versionName": "1.6.8",
-  "apkUrl": "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.8.apk",
-  "apkUrlFallback": "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.8.apk",
-  "size": 10910424,
-  "sha256": "90e3d0d5a309a2ec7ce86564a387265c66ba183ac1b725902f5494854b7bf075",
-  "minSupportedVersionCode": 35,
-  "force": true,
-  "changelog": [
-    "修复：投屏到电视时黑屏或一直转圈（m3u8 嵌套子列表没有重写，电视拿到的是错误的分片地址）"
-  ]
+    "versionCode":  36,
+    "versionName":  "1.6.9",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.9.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.9.apk",
+    "size":  10993543,
+    "sha256":  "279f5313435d8b73ea9eb424306b9d83ce4991b9eff9d44a43d143ef915c0509",
+    "minSupportedVersionCode":  36,
+    "force":  true,
+    "changelog":  [
+                      "新增禁果短剧与影视库（国产/偷拍/探花等分类）；修复禁果列表加载失败（字段类型解析崩溃）"
+                  ]
 }
