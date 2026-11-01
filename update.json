@@ -1,13 +1,13 @@
 {
-    "versionCode":  39,
-    "versionName":  "1.6.12",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.12.apk",
-    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.12.apk",
-    "size":  11003439,
-    "sha256":  "c98933e13a8913e5c0aa409505642baf7f4ff1ba7c2720758f646f5d14a0ee91",
-    "minSupportedVersionCode":  39,
+    "versionCode":  40,
+    "versionName":  "1.6.13",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.13.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.13.apk",
+    "size":  10992543,
+    "sha256":  "1558666ef4b3b0117501be0cd34636b85518e519f2211e9415c0bc789dc98df1",
+    "minSupportedVersionCode":  40,
     "force":  true,
     "changelog":  [
-                      "影视库标注付费片并说明只能试看；没有封面图时改为文字封面"
+                      "移除影视库（付费内容只能试看），只保留 AI 短剧"
                   ]
 }
