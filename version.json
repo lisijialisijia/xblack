@@ -1,13 +1,13 @@
 {
-    "versionCode":  38,
-    "versionName":  "1.6.11",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.11.apk",
-    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.11.apk",
-    "size":  11001443,
-    "sha256":  "933a32dc925180d6b501c43bd21e7476c7e924683e7af562c5c7e60747b3ea0e",
-    "minSupportedVersionCode":  38,
+    "versionCode":  39,
+    "versionName":  "1.6.12",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.12.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.12.apk",
+    "size":  11003439,
+    "sha256":  "c98933e13a8913e5c0aa409505642baf7f4ff1ba7c2720758f646f5d14a0ee91",
+    "minSupportedVersionCode":  39,
     "force":  true,
     "changelog":  [
-                      "封面图床域名改为自动探测，长按列表计数可手动指定图床域名"
+                      "影视库标注付费片并说明只能试看；没有封面图时改为文字封面"
                   ]
 }
