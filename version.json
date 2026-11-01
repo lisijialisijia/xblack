@@ -1,13 +1,13 @@
 {
-    "versionCode":  36,
-    "versionName":  "1.6.9",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.9.apk",
-    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.9.apk",
-    "size":  10993543,
-    "sha256":  "279f5313435d8b73ea9eb424306b9d83ce4991b9eff9d44a43d143ef915c0509",
-    "minSupportedVersionCode":  36,
+    "versionCode":  37,
+    "versionName":  "1.6.10",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.10.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.10.apk",
+    "size":  10993915,
+    "sha256":  "bb91cbd7301c8a48a9b23ef4616382419d53c5060717c1d3fe17cc2667a61db5",
+    "minSupportedVersionCode":  37,
     "force":  true,
     "changelog":  [
-                      "新增禁果短剧与影视库（国产/偷拍/探花等分类）；修复禁果列表加载失败（字段类型解析崩溃）"
+                      "修复禁果影视库列表加载失败（seriesCover 字段类型不符）；播放数改为亿/万显示"
                   ]
 }
