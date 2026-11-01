@@ -1,13 +1,13 @@
 {
-    "versionCode":  37,
-    "versionName":  "1.6.10",
-    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.10.apk",
-    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.10.apk",
-    "size":  10993915,
-    "sha256":  "bb91cbd7301c8a48a9b23ef4616382419d53c5060717c1d3fe17cc2667a61db5",
-    "minSupportedVersionCode":  37,
+    "versionCode":  38,
+    "versionName":  "1.6.11",
+    "apkUrl":  "https://cdn.jsdelivr.net/gh/lisijialisijia/xblack@main/apk/xblack-1.6.11.apk",
+    "apkUrlFallback":  "https://raw.githubusercontent.com/lisijialisijia/xblack/main/apk/xblack-1.6.11.apk",
+    "size":  11001443,
+    "sha256":  "933a32dc925180d6b501c43bd21e7476c7e924683e7af562c5c7e60747b3ea0e",
+    "minSupportedVersionCode":  38,
     "force":  true,
     "changelog":  [
-                      "修复禁果影视库列表加载失败（seriesCover 字段类型不符）；播放数改为亿/万显示"
+                      "封面图床域名改为自动探测，长按列表计数可手动指定图床域名"
                   ]
 }
